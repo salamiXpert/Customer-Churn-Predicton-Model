@@ -1,0 +1,6 @@
+{
+    "editor.suggest.showUsers": false,
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.inlineSuggest.enabled": false,
+    "notebook.output.scrolling": true
+}
